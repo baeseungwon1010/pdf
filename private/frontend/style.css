@@ -1,0 +1,12 @@
+body {
+  font-family: monospace;
+  padding: 20px;
+}
+button {
+  margin-left: 8px;
+}
+pre {
+  margin-top: 12px;
+  background: #eee;
+  padding: 8px;
+}
